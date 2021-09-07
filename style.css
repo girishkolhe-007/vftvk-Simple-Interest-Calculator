@@ -1,0 +1,27 @@
+body {background-color:black;}
+h1{color:grey;
+text-align: right;}
+#hr{
+	color:grey;
+	text-align: left;
+	margin-left:2px;
+}
+table{
+	border-width: 0;
+    width:50%; 
+    margin-left:25%; 
+    margin-right:25%;
+    margin-top: 10%;
+    background-color: white;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    padding: 30px;
+  }
+  tr,td{
+  	padding: 5px;
+  }
+  footer{
+  	text-align: right;
+  }
